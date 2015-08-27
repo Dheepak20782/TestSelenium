@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="106998" started-at="2015-08-27T18:15:33Z" finished-at="2015-08-27T18:17:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="106998" started-at="2015-08-27T18:15:33Z" finished-at="2015-08-27T18:17:20Z">
+      <class name="DevOpsDemo">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:DevOpsDemo@93f61c]" name="setUp" is-config="true" duration-ms="52362" started-at="2015-08-27T14:15:33Z" finished-at="2015-08-27T14:16:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testTcs()[pri:0, instance:DevOpsDemo@93f61c]" name="testTcs" duration-ms="46885" started-at="2015-08-27T14:16:25Z" finished-at="2015-08-27T14:17:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTcs -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DevOpsDemo@93f61c]" name="tearDown" is-config="true" duration-ms="7712" started-at="2015-08-27T14:17:12Z" finished-at="2015-08-27T14:17:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DevOpsDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
