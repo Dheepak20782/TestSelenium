@@ -20,7 +20,7 @@ public class DevOpsDemo {
 	@BeforeTest
 	public void setUp() throws Exception {
 	    driver = new FirefoxDriver();
-	    baseUrl = "http://136.151.193.184/8761";
+	    baseUrl = "http://136.151.193.184:8761";
 	    driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 	    driver.manage().window().maximize();
 	  }
